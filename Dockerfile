@@ -1,6 +1,6 @@
 # ubuntu16.04 with jupyterhub notebook
 # GPU devel version - cuda 8.0 dev and cudnn5.1
-FROM citcailearning/scipy_gpu_runtime_notebook:cuda8.0_localbuild
+FROM citcailearning/scipy_gpu_runtime_notebook:cuda8.0
 
 LABEL maintainer "NVIDIA CORPORATION <cudatools@nvidia.com>"
 
